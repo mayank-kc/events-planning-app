@@ -206,8 +206,3 @@ Event Guest List Page
 ```
 ### Storing Events data
 Let's store the inputted data json in the localStorage to persist the details on page reload for various events and corresponding guests.
-
-### Task Duration:
-The candidate has a time limit of 6 hours to complete the task, focusing
-
- on frontend development using React.js.
